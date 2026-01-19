@@ -1,19 +1,13 @@
----
-keywords: [rust, high-performance, low-latency, hft, optimization, rdtsc, assembly, lock-free, omni-synapse, korvex-ai]
----
-![Performance Audit](https://github.com/korvexai/korvex-video-engine/actions/workflows/audit.yml/badge.svg)
-![Efficiency](https://img.shields.io/badge/Latency-336_cycles-brightgreen)
-![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+﻿#  Korvex Omni-Synapse v2.0
+**Record-Breaking Performance: 121 CPU Cycles**
 
-#  Korvex Omni-Synapse v2.0 | Next-Gen Core
-**Ultra-Low-Latency Admission Engine | <150ns Latency | Forensic DNA Tracking**
+##  Commercial Licensing
+Support this project via GitHub Sponsors to receive your commercial license token:
+- **Basic Tier:** Individual developers & small startups.
+- **Pro Tier:** High-frequency trading firms & security labs.
+- **Enterprise Tier:** Global infrastructure & dedicated deployment.
 
-Korvex Omni-Synapse v2.0 is an HFT-grade engine optimized for real-time processing, introducing **Hard-Lock** security and CPU-cycle traceability.
-
-##  Benchmarks
-| Component | Performance | Status |
-| :--- | :--- | :--- |
-| **Admission Path** | **121 Cycles (Record)** |  HFT Grade |
-| **Security Validation** | **< 300 Cycles** |  Optimized |
-
- **Contact:** contactkorvex.ai@gmail.com
+##  Performance Audit
+- Admission Latency: 121 cycles (Benchmarked on x86_64)
+- Security: Hard-Lock Zero-Allocation Gate
+- Status: GOLD RELEASE
