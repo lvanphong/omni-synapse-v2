@@ -53,3 +53,10 @@ Testele confirmă un avans tehnologic masiv, reducând latența de la 1500ns (v1
 
 
 
+
+##  Indexing & Metadata (SEO)
+| Category | Keywords |
+| :--- | :--- |
+| **Performance** | rust, high-performance, low-latency, hft, optimization, benchmarks, speed, zero-cost, bare-metal, x86-64, assembly, rdtsc, lock-free, ultra-fast, nanosecond, precision, hot-path, simd, cache-opt, jit, runtime, throughput |
+| **Security** | cybersecurity, forensics, forensic-dna, audit, enterprise, network-security, data-integrity, auto-ban, ip-filter, ddos-shield, memory-safety |
+| **Architecture** | systems-programming, actix-web, concurrency, multithreading, real-time, packet-processing, distributed, low-level, dashmap, atomic, scalable, fintech, algo-trading, v8-engine, omni-synapse, korvex-ai |
