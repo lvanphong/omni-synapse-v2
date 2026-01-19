@@ -1,63 +1,19 @@
 ﻿---
-keywords: [rust, high-performance, low-latency, hft, optimization, cybersecurity, forensics, systems-programming, actix-web, concurrency, multithreading, benchmarks, speed, zero-cost, bare-metal, x86-64, assembly, rdtsc, lock-free, ultra-fast, enterprise, audit, real-time, packet-processing, network-security, binary-opt, data-integrity, forensic-dna, auto-ban, ip-filter, ddos-shield, distributed, low-level, memory-safety, dashmap, atomic, nanosecond, precision, hot-path, simd, cache-opt, jit, runtime, scalable, throughput, fintech, algo-trading, v8-engine, omni-synapse, korvex-ai, architecture]
-topic: rust, high-performance, low-latency, hft, optimization, cybersecurity, forensics, systems-programming, actix-web, concurrency, multithreading, benchmarks, speed, zero-cost, bare-metal, x86-64, assembly, rdtsc, lock-free, ultra-fast, enterprise, audit, real-time, packet-processing, network-security, binary-opt, data-integrity, forensic-dna, auto-ban, ip-filter, ddos-shield, distributed, low-level, memory-safety, dashmap, atomic, nanosecond, precision, hot-path, simd, cache-opt, jit, runtime, scalable, throughput, fintech, algo-trading, v8-engine, omni-synapse, korvex-ai, architecture
+keywords: [rust, high-performance, low-latency, hft, optimization, rdtsc, assembly, lock-free, omni-synapse, korvex-ai]
 ---
-![Rust](https://img.shields.io/badge/language-Rust-orange.svg)
-![License](https://img.shields.io/badge/license-Commercial-blue.svg)
-![Latency](https://img.shields.io/badge/latency-336_cycles-green.svg)
+![Performance Audit](https://github.com/korvexai/korvex-video-engine/actions/workflows/audit.yml/badge.svg)
+![Efficiency](https://img.shields.io/badge/Latency-336_cycles-brightgreen)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
-#  Korvex Omni-Synapse v2.0 | Next-Gen Core
 
+#  Korvex Omni-Synapse v2.0 | Next-Gen Core
 **Ultra-Low-Latency Admission Engine | <150ns Latency | Forensic DNA Tracking**
 
-Korvex Omni-Synapse v2.0 reprezintă evoluția tehnologiei Hyper-V8, fiind optimizat pentru procesare în timp real cu latență minimă. Față de versiunile anterioare, v2.0 introduce autorizarea securizată prin Hard-Lock și trasabilitatea datelor la nivel de ciclu CPU.
+Korvex Omni-Synapse v2.0 is an HFT-grade engine optimized for real-time processing, introducing **Hard-Lock** security and CPU-cycle traceability.
 
-##  Benchmarks de Performanță (Validated)
-
-Testele confirmă un avans tehnologic masiv, reducând latența de la 1500ns (v1) la sub 350 cicluri CPU (~120ns):
-
-| Componentă | Performanță | Status |
+##  Benchmarks
+| Component | Performance | Status |
 | :--- | :--- | :--- |
 | **Admission Path** | **~336 Cycles** |  HFT Grade |
 | **Security Validation** | **< 300 Cycles** |  Optimized |
-| **Forensic DNA Logging** | **Non-Blocking** |  Active |
 
-
-
-##  Caracteristici Principale
-- **Hard-Locked Security:** Sistem de licențiere integrat direct în binar pentru prevenirea clonării.
-- **Forensic DNA Tracking:** Fiecare cerere primește un ID unic de trasabilitate (Forensic ID).
-- **Auto-Ban Engine:** Protecție proactivă la nivel de IP împotriva atacurilor de tip flood.
-- **Extreme Multithreading:** Optimizat pentru 32 de nuclee paralele cu zero lock-contention.
-
-##  Tehnologii
-- **Core:** Rust (Stable 2026)
-- **Async Engine:** Actix-Web
-- **Memory Management:** DashMap & Atomic DNA Counters
-- **Precision:** `rdtsc` / `lfence` Assembly timing
-
-##  Structura Repository
-- `/src/ultra_core`: Inima sistemului de procesare.
-- `/src/security`: Logica de autorizare și ban.
-- `/src/audit`: Sistemul forensic de logging JSON.
-- `/src/platform`: Optimizări specifice pentru arhitecturi x86_64.
-
----
- 2026 Korvex | Part of the Hyper-V8 Ecosystem | [korvexai](https://github.com/korvexai)
-
-
-
-
-
-
-
-
-
-
-##  Indexing & Metadata (SEO)
-| Category | Keywords |
-| :--- | :--- |
-| **Performance** | rust, high-performance, low-latency, hft, optimization, benchmarks, speed, zero-cost, bare-metal, x86-64, assembly, rdtsc, lock-free, ultra-fast, nanosecond, precision, hot-path, simd, cache-opt, jit, runtime, throughput |
-| **Security** | cybersecurity, forensics, forensic-dna, audit, enterprise, network-security, data-integrity, auto-ban, ip-filter, ddos-shield, memory-safety |
-| **Architecture** | systems-programming, actix-web, concurrency, multithreading, real-time, packet-processing, distributed, low-level, dashmap, atomic, scalable, fintech, algo-trading, v8-engine, omni-synapse, korvex-ai |
-
+ **Contact:** contactkorvex.ai@gmail.com
