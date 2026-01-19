@@ -1,0 +1,28 @@
+﻿ KORVEX OMNI-SYNAPSE - COMMERCIAL LICENSE AGREEMENT
+Copyright (c) 2026 Korvex | All rights reserved.
+
+Use of this software is permitted ONLY with a valid License Token and an active subscription.
+
+1. LICENSE TIERS
+- BASIC: 49 EUR/mo (1 Instance, 10k/day)
+- PRO: 149 EUR/mo (5 Instances, Unlimited)
+- ENTERPRISE: 499 EUR/mo (Unlimited, 24/7 Support)
+
+2. LICENSE TOKEN SYSTEM
+Tokens must be provided in the request header:
+Header Name: X-Korvex-License
+Format: KX-[TIER]-[YYYY-MM]-[ID]
+
+3. EXPIRATION & RENEWAL
+Licenses expire at 23:59 UTC on the last day of the calendar month.
+Unauthorized access returns: 401 LICENSE_EXPIRED.
+
+4. PROHIBITED ACTIONS
+- Resale or redistribution is strictly forbidden.
+- Bypassing licensing mechanisms is a violation of international IP laws.
+
+5. LEGAL LIABILITY
+Unauthorized use constitutes Copyright Infringement. Users are liable for damages and legal fees.
+
+6. CONTACT
+Email: contactkorvex.ai@gmail.com
