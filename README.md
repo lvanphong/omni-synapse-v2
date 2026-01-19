@@ -1,4 +1,8 @@
-﻿#  Korvex Omni-Synapse v2.0 | Next-Gen Core
+﻿![Rust](https://img.shields.io/badge/language-Rust-orange.svg)
+![License](https://img.shields.io/badge/license-Commercial-blue.svg)
+![Latency](https://img.shields.io/badge/latency-336_cycles-green.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+#  Korvex Omni-Synapse v2.0 | Next-Gen Core
 
 **Ultra-Low-Latency Admission Engine | <150ns Latency | Forensic DNA Tracking**
 
@@ -36,6 +40,7 @@ Testele confirmă un avans tehnologic masiv, reducând latența de la 1500ns (v1
 
 ---
  2026 Korvex | Part of the Hyper-V8 Ecosystem | [korvexai](https://github.com/korvexai)
+
 
 
 
