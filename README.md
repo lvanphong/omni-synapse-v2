@@ -28,3 +28,21 @@ Support this project via GitHub Sponsors to receive your commercial license toke
 - Security: Hard-Lock Zero-Allocation Gate
 - Status: GOLD RELEASE
 
+
+---
+
+##  How to Buy / Commercial Licensing
+
+Korvex Omni-Synapse v2.0 is available under a tiered commercial license model. Secure your production-ready binary and priority support through **GitHub Sponsors**.
+
+###  Licensing Tiers:
+* **Basic (/mo):** Single production instance, 121-cycle optimized binary.
+* **Professional (/mo):** Multi-instance deployment (up to 5 servers), < 150ns latency optimization.
+* **Enterprise (/mo):** Unlimited global deployment, 24/7 dedicated integration consulting, and full hardware-specific optimization.
+
+###  Get Started:
+1. Click the **[ Sponsor]** button at the top of this repository.
+2. Select your preferred tier.
+3. Receive your **Commercial License Token** and secure download link automatically.
+
+[ Click here to go to the Sponsorship Page](https://github.com/sponsors/korvexai)
