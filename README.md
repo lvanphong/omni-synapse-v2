@@ -1,4 +1,4 @@
-﻿#  Korvex Omni-Synapse v2.0 GOLD
+#  Korvex Omni-Synapse v2.0 GOLD
 
 ![Latency](https://img.shields.io/badge/Latency-109_CPU_Cycles-gold?style=for-the-badge&logo=rust)
 ![Build](https://img.shields.io/badge/Build-Platinum_Grade-blue?style=for-the-badge)
@@ -15,7 +15,7 @@
 > **Hardware Context:** Benchmarked on Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz / Windows 11 Pro.
 
 ---
-**Record-Breaking Performance: 121 CPU Cycles**
+**Record-Breaking Performance: 109 CPU Cycles**
 
 ##  Commercial Licensing
 Support this project via GitHub Sponsors to receive your commercial license token:
@@ -36,7 +36,7 @@ Support this project via GitHub Sponsors to receive your commercial license toke
 Korvex Omni-Synapse v2.0 is available under a tiered commercial license model. Secure your production-ready binary and priority support through **GitHub Sponsors**.
 
 ###  Licensing Tiers:
-* **Basic (/mo):** Single production instance, 121-cycle optimized binary.
+* **Basic (/mo):** Single production instance, 109-cycle optimized binary.
 * **Professional (/mo):** Multi-instance deployment (up to 5 servers), < 150ns latency optimization.
 * **Enterprise (/mo):** Unlimited global deployment, 24/7 dedicated integration consulting, and full hardware-specific optimization.
 
