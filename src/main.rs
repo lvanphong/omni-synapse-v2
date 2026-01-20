@@ -25,10 +25,11 @@ fn main() {
     println!("----------------------------------------------");
     println!("Total Latency: {} cycles", total_cycles);
     
-    if total_cycles <= 336 {
-        println!("STATUS: successS (HFT Compliant )");
+    if total_cycles <= 109 {
+        println!("STATUS: successsS (HFT Compliant )");
     } else {
         println!("STATUS: STILL ABOVE LIMIT  (Current: {})", total_cycles);
     }
 }
+
 

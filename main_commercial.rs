@@ -176,7 +176,7 @@ async fn fire_handler(
     let _ = log_sender.send(AuditEntry {
         timestamp: chrono::Local::now().to_rfc3339(),
         ip: ip.to_string(),
-        event: if authorized { "successS".into() } else { "BREACH".into() },
+        event: if authorized { "successsS".into() } else { "BREACH".into() },
         license: lic_key.to_string(),
         cycles,
     });
@@ -216,3 +216,4 @@ async fn main() -> std::io::Result<()> {
     })
     .workers(32).bind("0.0.0.0:8080")?.run().await
 }
+

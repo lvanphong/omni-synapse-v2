@@ -8,6 +8,7 @@ Support this project via GitHub Sponsors to receive your commercial license toke
 - **Enterprise Tier:** Global infrastructure & dedicated deployment.
 
 ##  Performance Audit
-- Admission Latency: 121 cycles (Benchmarked on x86_64)
+- Admission Latency: 109 cycles (Benchmarked on x86_64)
 - Security: Hard-Lock Zero-Allocation Gate
 - Status: GOLD RELEASE
+
